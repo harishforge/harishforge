@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0D1117&height=200&section=header&text=harishforge&fontSize=70&fontAlignY=35&animation=fadeIn&theme=dark" />
-</p>
+### Hi, I'm Harish G
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Full+Stack+Engineer;Open+Source+Contributor;Minimalist+Designer" alt="Typing SVG" />
