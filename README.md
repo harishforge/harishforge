@@ -14,13 +14,6 @@
 
 ---
 
-### 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harishforge&theme=tokyonight&no-bg=true&margin-w=15&rank=SSS,SS,S,AAA,AA,A" alt="Trophies" />
-</p>
-
----
-
 ### 🛠️ Tech Stack
 
 #### 🌐 Languages & Core
