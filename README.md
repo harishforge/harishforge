@@ -1,3 +1,12 @@
+```
+ _   _      _ _         _____ 
+| | | | ___| | | ___   / ____|
+| |_| |/ _ \ | |/ _ \ | |  __
+|  _  |  __/ | | (_) || | |_ |
+|_| |_|\___|_|_|\___/  \_____|
+                             
+```
+
 ### Hi I'm Harish G
 
 Developer by day, coder by night !
@@ -39,9 +48,15 @@ A rich writing platform with EditorJS, user management, AWS & Cloudflare storage
 
 ## 📊 GitHub Stats
 
-![Harish's GitHub stats](https://github-readme-stats.vercel.app/api?username=harishforge&show_icons=true&theme=default)
+![Harish's GitHub stats](https://github-readme-stats.vercel.app/api?username=harishforge&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harishforge&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harishforge&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🐍 Snake Animation
+
+![Snake animation](https://raw.githubusercontent.com/harishforge/harishforge/output/dist/github-snake.svg)
+
+![Snake animation dark](https://raw.githubusercontent.com/harishforge/harishforge/output/dist/github-snake-dark.svg?palette=github-dark)
 
 ---
 
