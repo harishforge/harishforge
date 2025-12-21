@@ -25,14 +25,6 @@ Developer by day, coder by night !
 [![](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)](https://firebase.google.com/)
 [![](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harishforge/harishforge/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harishforge/harishforge/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/harishforge/harishforge/output/github-snake.svg">
-</picture>
-
-_generated with [Platane/snk](https://github.com/Platane/snk)_
-
 💬 [Portfolio](https://harishforge.github.io/devportfolio/)
 
 <!--START_SECTION:waka-->
@@ -51,7 +43,7 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Shanghai
+🕑︎ Time Zone: Asia/Kolkata
 ```
 
 
