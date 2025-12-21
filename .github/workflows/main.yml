@@ -2,15 +2,26 @@ name: Profile Readme
 
 on:
   schedule:
-    # Runs at 0:00 CST
-    - cron: '00 16 * * *'
+    # Runs every 12 hours
+    - cron: '0 0,12 * * *'
   workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
@@ -18,17 +29,20 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: push github-contribution-grid-snake.svg to the output branch
+
+      - name: Push Snake SVG to Output Branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - uses: anmol098/waka-readme-stats@master
+
+      - name: Update WakaTime Stats
+        uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
           SHOW_EDITORS: "False"
@@ -38,5 +52,5 @@ jobs:
           SHOW_SHORT_INFO: "True"
           SHOW_LOC_CHART: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
-          IGNORED_REPOS: "flyme6-device-bacon, flyme6-device-h830, flyme6-device-oneplus3, Lenovo_G40_70M_EFI, Shinelon_YAO_7000"
+          COMMIT_MESSAGE: "Updated WakaTime Stats"
 
