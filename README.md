@@ -12,7 +12,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+<h3 align="center">🛠️ Tech Stack</h3>
 
 <p align="center"><strong>🌐 Languages & Core</strong></p>
 <p align="center">
@@ -47,7 +47,7 @@
 
 ---
 
-### 📊 Performance Metrics
+<h3 align="center">📊 Performance Metrics</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harishforge&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishforge&layout=compact&theme=tokyonight&hide_border=true&hide=smali,html" alt="Langs" height="180" />
@@ -59,14 +59,14 @@
 
 ---
 
-### 🐍 Contribution Activity
+<h3 align="center">🐍 Contribution Activity</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/harishforge/harishforge/output/github-snake.svg" alt="Snake" width="100%" />
 </p>
 
 ---
 
-### ⏱️ Weekly Coding Activity
+<h3 align="center">⏱️ Weekly Coding Activity</h3>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
