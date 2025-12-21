@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=harishforge&fontSize=70&fontAlignY=40&animation=fadeIn&theme=tokyonight" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0D1117&height=200&section=header&text=harishforge&fontSize=70&fontAlignY=35&animation=fadeIn&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=20&pause=1000&color=9CA3AF&center=true&vCenter=true&width=435&lines=Full+Stack+Engineer;Open+Source+Contributor;Minimalist+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Full+Stack+Engineer;Open+Source+Contributor;Minimalist+Designer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ### 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harishforge&theme=tokyonight&no-bg=true&column=7&margin-w=15&rank=SSS,SS,S,AAA,AA,A" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=harishforge&theme=tokyonight&no-bg=true&margin-w=15&rank=SSS,SS,S,AAA,AA,A" alt="Trophies" />
 </p>
 
 ---
@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harishforge&theme=tokyonight&hide_border=true&area=true" alt="Activity" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harishforge&theme=tokyonight&hide_border=true&area=true&bg_color=0D1117" alt="Activity" width="100%" />
 </p>
 
 ---
