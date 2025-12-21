@@ -33,8 +33,12 @@
 ---
 
 <p align="center">
-  <img src="https://wakatime.com/share/@harishforge/7677ba3a-86a0-4a81-9952-40f0980590a3.svg" alt="Wakatime" />
+  <img src="https://raw.githubusercontent.com/harishforge/harishforge/output/github-snake.svg" alt="Snake" width="100%" />
 </p>
+
+#### `wakatime`
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <p align="center">
   <small>minimal is more.</small>
