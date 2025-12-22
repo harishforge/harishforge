@@ -1,40 +1,27 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,23&height=200&section=header&text=Harish%20G&fontSize=60&fontColor=ffffff&fontAlignY=40&animation=fadeIn&fontAlign=50&stroke=ffffff&strokeWidth=0&fontName=JetBrainsMono)
+<!-- Minimal Header -->
+<h1 style="font-family: 'JetBrains Mono', monospace; font-weight: 700; font-size: 3.5em; margin: 0; padding: 0; letter-spacing: -2px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+  Harish G
+</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=550&lines=Full-Stack+MERN+Developer;Building+Production-Ready+Apps;Passionate+Problem+Solver" alt="Typing SVG" /></a>
+<p style="font-family: 'JetBrains Mono', monospace; font-size: 0.9em; color: #666; margin-top: 8px; letter-spacing: 1px;">
+  <code>Full-Stack MERN Developer</code>
+</p>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Building+Production-Ready+Applications;Crafting+Scalable+Web+Solutions;Passionate+About+Clean+Code" alt="Typing SVG" /></a>
 
+<br/>
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3 style="font-family: 'JetBrains Mono', monospace; font-weight: 600;">🧠 About Me</h3>
-      <p style="font-family: 'JetBrains Mono', monospace; font-weight: 600;">
-        I'm a <b>Full-Stack MERN Developer</b> crafting scalable web applications. <br/>
-        From blogging platforms to inventory systems, I build solutions that matter.
-      </p>
-      <br/>
-      <a href="https://linkedin.com/in/itsharishg">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-      <a href="https://harishforge.github.io/devportfolio/">
-        <img src="https://img.shields.io/badge/Portfolio-2196F3?style=for-the-badge&logo=react&logoColor=white" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <h3 style="font-family: 'JetBrains Mono', monospace; font-weight: 600;">📫 Connect</h3>
-      <p style="font-family: 'JetBrains Mono', monospace; font-weight: 600;">Let's build something incredible together.</p>
-      <br/>
-      <a href="mailto:your-email@example.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-      </a>
-      <a href="https://hacknical.com/harishforge/resume?locale=en">
-        <img src="https://img.shields.io/badge/Resume-1a1a2e?style=for-the-badge&logo=readme&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
+<!-- Minimal Social Badges -->
+<p>
+  <a href="https://linkedin.com/in/itsharishg"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://harishforge.github.io/devportfolio/"><img src="https://img.shields.io/badge/-Portfolio-667eea?style=flat-square&logo=react&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://hacknical.com/harishforge/resume?locale=en"><img src="https://img.shields.io/badge/-Resume-000000?style=flat-square&logo=readme&logoColor=white" /></a>
+</p>
+
+<br/>
 
 <h3 style="font-family: 'JetBrains Mono', monospace; font-weight: 600;">⚡ Technical Command Center</h3>
 
