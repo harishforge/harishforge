@@ -124,7 +124,7 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,23&height=120&section=footer&text=Check%20Out%20My%20Repositories&fontSize=24&fontColor=ffffff)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24&height=100&section=footer&text=>>%20explore.repositories()&fontSize=18&fontColor=00ff00&fontName=JetBrainsMono&fontAlign=50&desc=Building.%20Learning.%20Innovating.&descSize=12&descAlignY=70&descAlign=50)
 
 </div>
 
