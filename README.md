@@ -1,39 +1,46 @@
 <div align="center">
 
-<!-- Hacker-Style Animated Header -->
-<div style="position: relative; padding: 40px 0;">
+<!-- Kali Linux Style Header -->
+<div style="background: linear-gradient(135deg, #0a0e27 0%, #1a1f3a 100%); padding: 50px 20px; border-radius: 10px; position: relative; overflow: hidden;">
   
-<!-- Matrix Rain Effect SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&pause=100&color=00FF0010&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=01010011+01001000+01000001+01010010+01001001+01010011+01001000;%3E%3E+INITIALIZING+SYSTEM...;%3E%3E+LOADING+PROFILE...;%3E%3E+ACCESS+GRANTED" style="position: absolute; top: 0; left: 50%; transform: translateX(-50%); opacity: 0.1; z-index: 0;" />
+<!-- Kali Dragon Icon -->
+<img src="https://www.kali.org/images/kali-dragon-icon.svg" width="80" style="opacity: 0.15; position: absolute; top: 20px; right: 20px;" onerror="this.style.display='none'"/>
 
-<!-- Main Name with Glitch Effect -->
-<h1 style="font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-weight: 800; font-size: 4.5em; margin: 20px 0 10px 0; padding: 0; letter-spacing: 0.08em; background: linear-gradient(135deg, #00ff88 0%, #00ffff 50%, #667eea 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; text-shadow: 0 0 30px rgba(0, 255, 136, 0.3); position: relative; z-index: 1; animation: glow 2s ease-in-out infinite alternate;">
+<!-- Terminal Header -->
+<div style="text-align: left; max-width: 800px; margin: 0 auto; font-family: 'Fira Code', 'Courier New', monospace; color: #367BF5; font-size: 12px; margin-bottom: 20px;">
+  <span style="color: #4CAF50;">┌──(</span><span style="color: #367BF5;">harish</span><span style="color: #fff;">㉿</span><span style="color: #367BF5;">github</span><span style="color: #4CAF50;">)-[</span><span style="color: #fff;">~</span><span style="color: #4CAF50;">]</span><br/>
+  <span style="color: #4CAF50;">└─</span><span style="color: #367BF5;">$</span> <span style="color: #fff;">cat profile.txt</span>
+</div>
+
+<!-- Main Name - Kali Style -->
+<h1 style="font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-weight: 800; font-size: 4.5em; margin: 20px 0 10px 0; padding: 0; letter-spacing: 0.1em; color: #367BF5; text-shadow: 0 0 20px rgba(54, 123, 245, 0.5), 0 0 40px rgba(54, 123, 245, 0.3); position: relative; z-index: 1;">
   HARISH
 </h1>
 
-<!-- Animated Cursor -->
-<p style="font-family: 'JetBrains Mono', monospace; font-size: 1em; color: #00ff88; margin: 5px 0 15px 0; letter-spacing: 2px;">
-  <code style="background: rgba(0, 255, 136, 0.1); padding: 5px 15px; border: 1px solid #00ff88; border-radius: 4px;">
-    <span style="color: #00ff88;">$</span> <span style="color: #fff;">Full-Stack MERN Developer</span><span style="animation: blink 1s infinite;">_</span>
+<!-- Kali Terminal Prompt -->
+<p style="font-family: 'Fira Code', 'Courier New', monospace; font-size: 1em; margin: 15px 0; letter-spacing: 1px;">
+  <code style="background: rgba(54, 123, 245, 0.1); padding: 8px 20px; border-left: 3px solid #367BF5; color: #fff; display: inline-block; text-align: left;">
+    <span style="color: #4CAF50;">root@kali</span><span style="color: #fff;">:</span><span style="color: #367BF5;">~#</span> <span style="color: #fff;">echo "Full-Stack MERN Developer"</span>
   </code>
 </p>
 
 </div>
 
-<!-- Hacker Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&duration=2000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=%3E%3E+Building+Production-Ready+Applications...;%3E%3E+Crafting+Scalable+Web+Solutions...;%3E%3E+Deploying+to+Production...;%3E%3E+Code.+Build.+Deploy.+Repeat." alt="Typing SVG" /></a>
+<!-- Kali Typing Animation -->
+<br/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&duration=2000&pause=1000&color=367BF5&center=true&vCenter=true&width=800&lines=%5B+%E2%9C%93+%5D+Initializing+development+environment...;%5B+%E2%9C%93+%5D+Building+scalable+web+applications...;%5B+%E2%9C%93+%5D+Deploying+to+production...;%5B+%E2%9C%93+%5D+Securing+full-stack+solutions...;%5B+*+%5D+Status%3A+Ready+for+deployment" alt="Typing SVG" /></a>
 
 <br/>
 
-<!-- Animated Social Badges with Glow -->
-<p style="margin-top: 20px;">
-  <a href="https://linkedin.com/in/itsharishg"><img src="https://img.shields.io/badge/>>_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" style="filter: drop-shadow(0 0 8px rgba(10, 102, 194, 0.5));" /></a>
-  <a href="https://harishforge.github.io/devportfolio/"><img src="https://img.shields.io/badge/>>_Portfolio-00ff88?style=flat-square&logo=react&logoColor=black" style="filter: drop-shadow(0 0 8px rgba(0, 255, 136, 0.5));" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/>>_Email-EA4335?style=flat-square&logo=gmail&logoColor=white" style="filter: drop-shadow(0 0 8px rgba(234, 67, 53, 0.5));" /></a>
-  <a href="https://hacknical.com/harishforge/resume?locale=en"><img src="https://img.shields.io/badge/>>_Resume-000000?style=flat-square&logo=readme&logoColor=00ff88" style="filter: drop-shadow(0 0 8px rgba(0, 255, 136, 0.3));" /></a>
+<!-- Kali-Style Social Badges -->
+<p style="margin-top: 25px;">
+  <a href="https://linkedin.com/in/itsharishg"><img src="https://img.shields.io/badge/┌─[LinkedIn]-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://harishforge.github.io/devportfolio/"><img src="https://img.shields.io/badge/├─[Portfolio]-367BF5?style=for-the-badge&logo=react&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/├─[Email]-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://hacknical.com/harishforge/resume?locale=en"><img src="https://img.shields.io/badge/└─[Resume]-4CAF50?style=for-the-badge&logo=readme&logoColor=white" /></a>
 </p>
 
-<!-- Divider Line -->
+<!-- Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <br/>
