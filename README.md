@@ -1,63 +1,62 @@
-# Harish G
-**Full Stack Engineer | Systems Architect**
+## Harish G
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=2D79FF&vCenter=true&width=500&lines=Building+Scalable+Solutions;Architecting+Modern+Web+Apps;Optimizing+System+Performance" alt="Professional Typing SVG" />
-
----
-
-### `// Professional Summary`
-
-I am a results-driven **Full Stack Engineer** specializing in building robust, scalable, and enterprise-grade applications. My expertise lies in architecting high-performance systems with a focus on code quality, security, and exceptional user experience.
-
----
-
-### `// Technical Expertise`
-
-**Core Languages & Runtime**
-`TypeScript` `•` `JavaScript (ES6+)` `•` `Python` `•` `Node.js`
-
-**Frontend Engineering**
-`React.js` `•` `Next.js` `•` `TailwindCSS` `•` `Vite` `•` `Redux`
-
-**Backend & Architecture**
-`RESTful APIs` `•` `GraphQL` `•` `Microservices` `•` `Express.js`
-
-**Databases & Persistence**
-`PostgreSQL` `•` `MongoDB` `•` `Redis` `•` `Prisma`
-
-**Infrastructure & DevOps**
-`Amazon Web Services (AWS)` `•` `Docker` `•` `CI/CD Pipelines` `•` `Git`
-
----
-
-### `// Performance Metrics`
-
-<img src="https://github-readme-stats.vercel.app/api?username=harishforge&show_icons=true&theme=omni&hide_border=true&count_private=true&include_all_commits=true" alt="Metrics" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishforge&layout=compact&theme=omni&hide_border=true&hide=smali,html" alt="Langs" height="165" />
+*Full Stack Engineer · Open Source Contributor · Minimalist*
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harishforge&theme=omni&hide_border=true&area=true&bg_color=0D1117" alt="Activity" width="100%" />
-
----
-
-### `// Development Workflow`
-
-<img src="https://raw.githubusercontent.com/harishforge/harishforge/output/github-snake.svg" alt="Activity Snake" width="100%" />
-
----
-
-### `// Connect`
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/harish-g)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2D79FF?style=flat-square&logo=react&logoColor=white)](https://harishforge.github.io/devportfolio/)
-[![Resume](https://img.shields.io/badge/Resume-0D1117?style=flat-square&logo=googledocs&logoColor=white)](https://hacknical.com/harishforge/resume?locale=en)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a2e?style=flat-square&logo=safari&logoColor=white)](https://harishforge.github.io/devportfolio/)
+[![Resume](https://img.shields.io/badge/Resume-1a1a2e?style=flat-square&logo=readme&logoColor=white)](https://hacknical.com/harishforge/resume?locale=en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/harish-g)
+[![Email](https://img.shields.io/badge/Email-1a1a2e?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:your-email@example.com)
 
 <br/>
 
-_`/* Engineered with precision using JetBrains Mono */`_
-_![Status](https://img.shields.io/badge/Build-Optimized-success?style=flat-square)_ 
-_![Environment](https://img.shields.io/badge/Environment-Production-blue?style=flat-square)_
+---
+
+### About
+
+I build scalable web applications and contribute to open source. Focused on clean code, performance, and user experience.
+
+<br/>
+
+---
+
+### Tech Stack
+
+| Domain | Technologies |
+|--------|-------------|
+| **Languages** | JavaScript, TypeScript, Python |
+| **Frontend** | React, Next.js, TailwindCSS, Vite |
+| **Backend** | Node.js, Express, GraphQL, REST APIs |
+| **Database** | PostgreSQL, MongoDB, Redis |
+| **DevOps** | Docker, AWS, CI/CD, Git |
+| **Tools** | VS Code, Figma, Postman |
+
+<br/>
+
+---
+
+### GitHub Analytics
+
+<img src="https://github-readme-stats.vercel.app/api?username=harishforge&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" height="165" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishforge&layout=compact&theme=github_dark&hide_border=true&hide=smali,html&bg_color=0d1117" height="165" alt="languages" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harishforge&theme=github-dark&hide_border=true&area=true&bg_color=0d1117" width="100%" alt="contribution graph" />
+
+<br/>
+
+---
+
+### Contribution Activity
+
+<img src="https://raw.githubusercontent.com/harishforge/harishforge/output/github-snake.svg" width="100%" alt="snake" />
+
+<br/>
+
+---
+
+<sub>*Built with precision and passion*</sub>
 
 
