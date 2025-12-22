@@ -24,12 +24,6 @@
       <span style="color: #4CAF50; font-weight: 700;">»</span> <span style="font-weight: 600;">Full-Stack MERN Developer</span> <span style="color: #4CAF50; font-weight: 700;">«</span>
     </p>
   </div>
-  
-  <!-- Next Command -->
-  <p style="color: #4CAF50; font-size: 12px; margin: 30px 0 0 0; text-align: left; display: inline-block;">
-    <span style="color: #4CAF50;">┌──(</span><span style="color: #367BF5; font-weight: 600;">harish</span><span style="color: #fff;">㉿</span><span style="color: #367BF5; font-weight: 600;">github</span><span style="color: #4CAF50;">)-[</span><span style="color: #fff;">~</span><span style="color: #4CAF50;">]</span><br/>
-    <span style="color: #4CAF50;">└─</span><span style="color: #367BF5;">$</span> <span style="color: #fff;">./status.sh</span>
-  </p>
 
 </div>
 
