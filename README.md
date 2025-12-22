@@ -1,30 +1,34 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=300&section=header&text=Harish%20G&fontSize=90&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Architect%20&descAlignY=55&descSize=25)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,23&height=280&section=header&text=Harish%20G&fontSize=80&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Architecting%20the%20Digital%20Future&descAlignY=55&descSize=20)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=A68CFF&center=true&vCenter=true&width=600&lines=Architecting+the+Next+Gen+Web;Crafting+Pixel+Perfect+UI;Building+Scalable+Systems" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=550&lines=Full+Stack+Systems+Architect;Open+Source+Contributor;Performance+Optimization+Expert" alt="Typing SVG" /></a>
+
+<br/>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harishforge&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="trophy" /></a>
 
 <br/>
 
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>🚀 Profile</h3>
+      <h3>🧠 About Me</h3>
       <p>
-        I'm a <b>Full Stack Engineer</b> passionate about building software that shapes the future. <br/>
-        specializing in <b>Systems Architecture</b>, <b>AI Integration</b>, and <b>Performance Optimization</b>.
+        I am a <b>Visionary Engineer</b> building high-performance systems. <br/>
+        My code powers scalable applications used by thousands.
       </p>
       <br/>
       <a href="https://linkedin.com/in/harish-g">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>
       <a href="https://harishforge.github.io/devportfolio/">
-        <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=react&logoColor=white" />
+        <img src="https://img.shields.io/badge/Portfolio-2196F3?style=for-the-badge&logo=react&logoColor=white" />
       </a>
     </td>
     <td align="center" width="50%">
-      <h3>⚡ Reach Out</h3>
-      <p>Open for collaborations and interesting conversations.</p>
+      <h3>📫 Connect</h3>
+      <p>Let's build something incredible together.</p>
       <br/>
       <a href="mailto:your-email@example.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -36,74 +40,60 @@
   </tr>
 </table>
 
-<h3>🛠️ The Arsenal</h3>
+<h3>� Technical Command Center</h3>
 
 <table>
   <tr>
-    <td align="center" width="120"><b>Core</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=js,ts,python,rust&theme=dark" />
-    </td>
+    <td align="center" width="130"><img src="https://img.shields.io/badge/Core-000?style=for-the-badge&logo=codio&logoColor=white" /></td>
+    <td><img src="https://skillicons.dev/icons?i=js,ts,python,cpp,rust&theme=dark" /></td>
   </tr>
   <tr>
-    <td align="center" width="120"><b>Frontend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite,threejs&theme=dark" />
-    </td>
+    <td align="center" width="130"><img src="https://img.shields.io/badge/Frontend-000?style=for-the-badge&logo=react&logoColor=61DAFB" /></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite,threejs,figma&theme=dark" /></td>
   </tr>
   <tr>
-    <td align="center" width="120"><b>Backend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,nestjs,django&theme=dark" />
-    </td>
+    <td align="center" width="130"><img src="https://img.shields.io/badge/Backend-000?style=for-the-badge&logo=nodedotjs&logoColor=339933" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,apollo,django&theme=dark" /></td>
   </tr>
   <tr>
-    <td align="center" width="120"><b>Base</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=postgres,mongo,redis,docker,aws,kubernetes,git&theme=dark" />
-    </td>
+    <td align="center" width="130"><img src="https://img.shields.io/badge/Cloud-000?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" /></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,gcp,cloudflare&theme=dark" /></td>
   </tr>
   <tr>
-    <td align="center" width="120"><b>Design</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=figma,ae,ps&theme=dark" />
-    </td>
+    <td align="center" width="130"><img src="https://img.shields.io/badge/Data-000?style=for-the-badge&logo=postgresql&logoColor=4169E1" /></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mongo,redis,firebase,supabase,prisma&theme=dark" /></td>
   </tr>
 </table>
 
-<h3>📊 System Telemetry</h3>
+<h3>📊 Isometric Intelligence</h3>
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=harishforge&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true" width="100%" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=harishforge&theme=midnight-purple&hide_border=true" width="100%" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harishforge&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishforge&layout=compact&theme=radical&hide_border=true&hide=smali,html&bg_color=0d1117" height="150" alt="languages" />
+</div>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harishforge&bg_color=1a1b27&color=7938fa&line=7938fa&point=FFFFFF&area=true&hide_border=true" width="100%" />
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harishforge&theme=radical" alt="profile details">
+</div>
 
 <br/>
 
-<h3>🐍 Contribution Stream</h3>
+<h3>� Contribution 3D Terrain</h3>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harishforge/harishforge/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harishforge/harishforge/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/harishforge/harishforge/output/github-snake.svg" width="100%" />
-</picture>
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harishforge&bg_color=0D1117&color=ff00cc&line=ff00cc&point=FFFFFF&area=true&hide_border=true" width="100%" />
+</div>
+
+<br/>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<br/>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=100&section=footer&text=Innovate.%20Build.%20Scale.&fontSize=20&fontColor=ffffff)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,23&height=120&section=footer&text=Engineered%20for%20Excellence&fontSize=24&fontColor=ffffff)
 
 </div>
 
