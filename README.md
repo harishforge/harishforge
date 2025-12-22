@@ -1,68 +1,63 @@
-# `[ACCESS_GRANTED] - SESSION_ID: HARISH_FORGE_01`
+# Harish G
+**Full Stack Engineer | Systems Architect**
 
-```bash
-# SYSTEM INITIALIZATION...
-# [UNAME]: Harish G
-# [KERN]: Full_Stack_v2.1.0
-# [GOAL]: Innovate_Or_Die.sh
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=2D79FF&vCenter=true&width=500&lines=Building+Scalable+Solutions;Architecting+Modern+Web+Apps;Optimizing+System+Performance" alt="Professional Typing SVG" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=14&pause=1000&color=4AF626&vCenter=true&width=600&lines=%3E_REPLICATING_CORE_LOGIC...;%3E_BYPASSING_CONVENTIONAL_UI...;%3E_INITIALIZING_NEURAL_INTERFACE...;%3E_READY_TO_BUILD_THE_FUTURE" alt="Hacker Typing" />
+---
+
+### `// Professional Summary`
+
+I am a results-driven **Full Stack Engineer** specializing in building robust, scalable, and enterprise-grade applications. My expertise lies in architecting high-performance systems with a focus on code quality, security, and exceptional user experience.
+
+---
+
+### `// Technical Expertise`
+
+**Core Languages & Runtime**
+`TypeScript` `•` `JavaScript (ES6+)` `•` `Python` `•` `Node.js`
+
+**Frontend Engineering**
+`React.js` `•` `Next.js` `•` `TailwindCSS` `•` `Vite` `•` `Redux`
+
+**Backend & Architecture**
+`RESTful APIs` `•` `GraphQL` `•` `Microservices` `•` `Express.js`
+
+**Databases & Persistence**
+`PostgreSQL` `•` `MongoDB` `•` `Redis` `•` `Prisma`
+
+**Infrastructure & DevOps**
+`Amazon Web Services (AWS)` `•` `Docker` `•` `CI/CD Pipelines` `•` `Git`
+
+---
+
+### `// Performance Metrics`
+
+<img src="https://github-readme-stats.vercel.app/api?username=harishforge&show_icons=true&theme=omni&hide_border=true&count_private=true&include_all_commits=true" alt="Metrics" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishforge&layout=compact&theme=omni&hide_border=true&hide=smali,html" alt="Langs" height="165" />
 
 <br/>
 
-`[ CONNECT ]`
-[![~/portfolio](https://img.shields.io/badge/~/portfolio-000000?style=flat-square&logo=react&logoColor=4AF626)](https://harishforge.github.io/devportfolio/)
-[![~/resume](https://img.shields.io/badge/~/resume-000000?style=flat-square&logo=googledocs&logoColor=4AF626)](https://hacknical.com/harishforge/resume?locale=en)
-[![~/contact](https://img.shields.io/badge/~/contact-000000?style=flat-square&logo=gmail&logoColor=4AF626)](mailto:your-email@example.com)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harishforge&theme=omni&hide_border=true&area=true&bg_color=0D1117" alt="Activity" width="100%" />
 
 ---
 
-### `// ./init_tech_stack.sh`
+### `// Development Workflow`
 
-```bash
-#!/bin/bash
-
-# LOADING_PREREQUISITES...
-CORE_LIBS=("JavaScript" "TypeScript" "Python")
-FRONT_END=("React" "Next.js" "TailwindCSS" "Vite")
-BACK_END=("Node.js" "Express")
-DATABASE=("MongoDB" "PostgreSQL")
-INFRA=("Docker" "AWS" "Git")
-
-echo "ENVIRONMENT_READY: TOTAL_MASTERY_ESTABLISHED"
-```
+<img src="https://raw.githubusercontent.com/harishforge/harishforge/output/github-snake.svg" alt="Activity Snake" width="100%" />
 
 ---
 
-### `// ./fetch_telemetry.py`
+### `// Connect`
 
-<img src="https://github-readme-stats.vercel.app/api?username=harishforge&show_icons=true&theme=matrix&hide_border=true&count_private=true&include_all_commits=true&custom_title=system_stats&title_color=4AF626&icon_color=4AF626&text_color=4AF626" alt="Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishforge&layout=compact&theme=matrix&hide_border=true&hide=smali,html&custom_title=lang_usage&title_color=4AF626&text_color=4AF626" alt="Langs" height="150" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/harish-g)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2D79FF?style=flat-square&logo=react&logoColor=white)](https://harishforge.github.io/devportfolio/)
+[![Resume](https://img.shields.io/badge/Resume-0D1117?style=flat-square&logo=googledocs&logoColor=white)](https://hacknical.com/harishforge/resume?locale=en)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harishforge&theme=matrix&hide_border=true&area=true&bg_color=0D1117&custom_title=activity_stream&color=4AF626" alt="Graph" width="100%" />
-
----
-
-### `// ./run_snake_process.bin`
-
-<img src="https://raw.githubusercontent.com/harishforge/harishforge/output/github-snake.svg" alt="Snake" width="100%" />
-
----
-
-### `// ./check_uptime.sh`
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<br/>
-
-_`/* [SYSTEM_LOG]: HARISH_FORGE SECURE_CONNECTION_STABLISHED */`_
-
-`[ STATUS: ]` ![Build](https://img.shields.io/badge/RUNNING-SUCCESS-4AF626?style=flat-square)
-`[ VERSION: ]` ![Version](https://img.shields.io/badge/v2.1.0-STABLE-4AF626?style=flat-square)
-`[ PROTOCOL: ]` ![License](https://img.shields.io/badge/MIT-ENCRYPTED-4AF626?style=flat-square)
+_`/* Engineered with precision using JetBrains Mono */`_
+_![Status](https://img.shields.io/badge/Build-Optimized-success?style=flat-square)_ 
+_![Environment](https://img.shields.io/badge/Environment-Production-blue?style=flat-square)_
 
 
