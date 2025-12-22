@@ -1,68 +1,63 @@
-# 👋 _Hi, I'm **Harish G**_
+# `root@harishforge:~# cat profile.md`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=14&pause=1000&color=7AA2F7&vCenter=true&width=500&lines=Full+Stack+Engineer+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%8C%9F;Minimalist+Designer+%F0%9F%8E%A8;Building+the+Future+%E2%9C%A8" alt="Typing SVG" />
+```typescript
+/**
+ * [SYSTEM_INFO]
+ * User: Harish G
+ * Role: Full Stack Engineer
+ * Goal: Minimalism & Performance
+ */
+```
 
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0D1117?style=flat&logo=react&logoColor=61DAFB)](https://harishforge.github.io/devportfolio/)
-[![Resume](https://img.shields.io/badge/📄_Resume-0D1117?style=flat&logo=googledocs&logoColor=4285F4)](https://hacknical.com/harishforge/resume?locale=en)
-[![Contact](https://img.shields.io/badge/✉️_Contact-0D1117?style=flat&logo=gmail&logoColor=EA4335)](mailto:your-email@example.com)
-
----
-
-## 🛠️ _**Tech Stack**_
-
-### _**🌐 Languages & Core**_
-
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-
-### _**⚛️ Frameworks & Libraries**_
-
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)](https://vitejs.dev/)
-
-### _**🗄️ Databases & Infrastructure**_
-
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=FF9900)](https://aws.amazon.com/)
-
-### _**🔧 Tools & Design**_
-
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)](https://www.figma.com/)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-
----
-
-## 📊 _**Performance Metrics**_
-
-<img src="https://github-readme-stats.vercel.app/api?username=harishforge&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Statistics" alt="GitHub Stats" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishforge&layout=compact&theme=tokyonight&hide_border=true&hide=smali,html&custom_title=Most%20Used%20Languages" alt="Top Languages" height="160" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=14&pause=1000&color=A9B1D6&vCenter=true&width=600&lines=%3E_status:%20innovating_new_solutions;%3E_action:%20optimizing_performance;%3E_mode:%20deep_coding_session" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harishforge&theme=tokyonight&hide_border=true&area=true&bg_color=0D1117&custom_title=Contribution%20Graph" alt="Contribution Graph" width="100%" />
+`[ 🔗 ]` [![~/portfolio](https://img.shields.io/badge/~/portfolio-0D1117?style=flat-square&logo=react&logoColor=61DAFB)](https://harishforge.github.io/devportfolio/)
+`[ 📄 ]` [![~/resume](https://img.shields.io/badge/~/resume-0D1117?style=flat-square&logo=googledocs&logoColor=4285F4)](https://hacknical.com/harishforge/resume?locale=en)
+`[ ✉️ ]` [![~/contact](https://img.shields.io/badge/~/contact-0D1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:your-email@example.com)
 
 ---
 
-## 🐍 _**Contribution Activity**_
+### `// dependencies`
 
-<img src="https://raw.githubusercontent.com/harishforge/harishforge/output/github-snake.svg" alt="Snake Animation" width="100%" />
+```json
+{
+  "core": ["JavaScript", "TypeScript", "Python"],
+  "frameworks": ["React", "Next.js", "Node.js", "TailwindCSS"],
+  "infrastructure": ["MongoDB", "PostgreSQL", "Docker", "AWS"],
+  "env": ["VS Code", "Git", "Figma"]
+}
+```
 
 ---
 
-## ⏱️ _**Weekly Coding Activity**_
+### `// telemetry`
+
+<img src="https://github-readme-stats.vercel.app/api?username=harishforge&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=system_stats" alt="Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishforge&layout=compact&theme=tokyonight&hide_border=true&hide=smali,html&custom_title=lang_usage" alt="Langs" height="150" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harishforge&theme=tokyonight&hide_border=true&area=true&bg_color=0D1117&custom_title=activity_stream" alt="Graph" width="100%" />
+
+---
+
+### `// visual_log`
+
+<img src="https://raw.githubusercontent.com/harishforge/harishforge/output/github-snake.svg" alt="Snake" width="100%" />
+
+---
+
+### `// uptime`
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 <br/>
 
-_![Made with Love](https://img.shields.io/badge/Made_with-❤️_and_JetBrains_Mono-FF6B6B?style=flat)_
+_`/* system.status = 'ready' | rendered with jetbrains mono & passion */`_
+_![Status](https://img.shields.io/badge/build-passing-success?style=flat-square)_ 
+_![Version](https://img.shields.io/badge/version-2.1.0-blue?style=flat-square)_
+_![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)_
+
