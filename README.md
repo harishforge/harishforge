@@ -1,25 +1,40 @@
 <div align="center">
 
-<!-- Minimal Header -->
-<h1 style="font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-weight: 800; font-size: 4em; margin: 0; padding: 0; letter-spacing: 0.05em; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
+<!-- Hacker-Style Animated Header -->
+<div style="position: relative; padding: 40px 0;">
+  
+<!-- Matrix Rain Effect SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&pause=100&color=00FF0010&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=01010011+01001000+01000001+01010010+01001001+01010011+01001000;%3E%3E+INITIALIZING+SYSTEM...;%3E%3E+LOADING+PROFILE...;%3E%3E+ACCESS+GRANTED" style="position: absolute; top: 0; left: 50%; transform: translateX(-50%); opacity: 0.1; z-index: 0;" />
+
+<!-- Main Name with Glitch Effect -->
+<h1 style="font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-weight: 800; font-size: 4.5em; margin: 20px 0 10px 0; padding: 0; letter-spacing: 0.08em; background: linear-gradient(135deg, #00ff88 0%, #00ffff 50%, #667eea 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; text-shadow: 0 0 30px rgba(0, 255, 136, 0.3); position: relative; z-index: 1; animation: glow 2s ease-in-out infinite alternate;">
   HARISH
 </h1>
 
-<p style="font-family: 'JetBrains Mono', monospace; font-size: 0.9em; color: #666; margin-top: 8px; letter-spacing: 1px;">
-  <code>Full-Stack MERN Developer</code>
+<!-- Animated Cursor -->
+<p style="font-family: 'JetBrains Mono', monospace; font-size: 1em; color: #00ff88; margin: 5px 0 15px 0; letter-spacing: 2px;">
+  <code style="background: rgba(0, 255, 136, 0.1); padding: 5px 15px; border: 1px solid #00ff88; border-radius: 4px;">
+    <span style="color: #00ff88;">$</span> <span style="color: #fff;">Full-Stack MERN Developer</span><span style="animation: blink 1s infinite;">_</span>
+  </code>
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Building+Production-Ready+Applications;Crafting+Scalable+Web+Solutions;Passionate+About+Clean+Code" alt="Typing SVG" /></a>
+</div>
+
+<!-- Hacker Typing Animation -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&duration=2000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=%3E%3E+Building+Production-Ready+Applications...;%3E%3E+Crafting+Scalable+Web+Solutions...;%3E%3E+Deploying+to+Production...;%3E%3E+Code.+Build.+Deploy.+Repeat." alt="Typing SVG" /></a>
 
 <br/>
 
-<!-- Minimal Social Badges -->
-<p>
-  <a href="https://linkedin.com/in/itsharishg"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://harishforge.github.io/devportfolio/"><img src="https://img.shields.io/badge/-Portfolio-667eea?style=flat-square&logo=react&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://hacknical.com/harishforge/resume?locale=en"><img src="https://img.shields.io/badge/-Resume-000000?style=flat-square&logo=readme&logoColor=white" /></a>
+<!-- Animated Social Badges with Glow -->
+<p style="margin-top: 20px;">
+  <a href="https://linkedin.com/in/itsharishg"><img src="https://img.shields.io/badge/>>_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" style="filter: drop-shadow(0 0 8px rgba(10, 102, 194, 0.5));" /></a>
+  <a href="https://harishforge.github.io/devportfolio/"><img src="https://img.shields.io/badge/>>_Portfolio-00ff88?style=flat-square&logo=react&logoColor=black" style="filter: drop-shadow(0 0 8px rgba(0, 255, 136, 0.5));" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/>>_Email-EA4335?style=flat-square&logo=gmail&logoColor=white" style="filter: drop-shadow(0 0 8px rgba(234, 67, 53, 0.5));" /></a>
+  <a href="https://hacknical.com/harishforge/resume?locale=en"><img src="https://img.shields.io/badge/>>_Resume-000000?style=flat-square&logo=readme&logoColor=00ff88" style="filter: drop-shadow(0 0 8px rgba(0, 255, 136, 0.3));" /></a>
 </p>
+
+<!-- Divider Line -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <br/>
 
