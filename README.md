@@ -45,11 +45,18 @@
 
 <br/>
 
-<h3 style="font-family: 'JetBrains Mono', monospace; font-weight: 600;">⚡ Technical Command Center</h3>
+<!-- Kali Section Header -->
+<div style="background: linear-gradient(135deg, #0a0e27 0%, #1a1f3a 100%); padding: 20px; border-radius: 8px; margin: 20px 0;">
+  <p style="font-family: 'Fira Code', monospace; color: #4CAF50; font-size: 12px; margin: 0 0 10px 0;">
+    <span style="color: #4CAF50;">┌──(</span><span style="color: #367BF5;">harish</span><span style="color: #fff;">㉿</span><span style="color: #367BF5;">github</span><span style="color: #4CAF50;">)-[</span><span style="color: #fff;">~/tech-stack</span><span style="color: #4CAF50;">]</span><br/>
+    <span style="color: #4CAF50;">└─</span><span style="color: #367BF5;">$</span> <span style="color: #fff;">ls -la skills/</span>
+  </p>
+  <h3 style="font-family: 'Fira Code', monospace; font-weight: 700; color: #367BF5; margin: 10px 0; font-size: 1.3em;">⚡ Technical Arsenal</h3>
+</div>
 
 <table>
   <tr>
-    <td align="center" width="130"><img src="https://img.shields.io/badge/Core-000?style=for-the-badge&logo=codio&logoColor=white" /></td>
+    <td align="center" width="130"><img src="https://img.shields.io/badge/[_Core_]-367BF5?style=for-the-badge&logo=codio&logoColor=white" /></td>
     <td>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
       <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a>
@@ -59,7 +66,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="130"><img src="https://img.shields.io/badge/Frontend-000?style=for-the-badge&logo=react&logoColor=61DAFB" /></td>
+    <td align="center" width="130"><img src="https://img.shields.io/badge/[_Frontend_]-367BF5?style=for-the-badge&logo=react&logoColor=white" /></td>
     <td>
       <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a>
       <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /></a>
@@ -71,7 +78,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="130"><img src="https://img.shields.io/badge/Backend-000?style=for-the-badge&logo=nodedotjs&logoColor=339933" /></td>
+    <td align="center" width="130"><img src="https://img.shields.io/badge/[_Backend_]-367BF5?style=for-the-badge&logo=nodedotjs&logoColor=white" /></td>
     <td>
       <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
       <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /></a>
@@ -82,7 +89,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="130"><img src="https://img.shields.io/badge/Cloud-000?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" /></td>
+    <td align="center" width="130"><img src="https://img.shields.io/badge/[_Cloud_]-367BF5?style=for-the-badge&logo=amazonwebservices&logoColor=white" /></td>
     <td>
       <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
       <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
@@ -93,7 +100,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="130"><img src="https://img.shields.io/badge/Data-000?style=for-the-badge&logo=postgresql&logoColor=4169E1" /></td>
+    <td align="center" width="130"><img src="https://img.shields.io/badge/[_Database_]-367BF5?style=for-the-badge&logo=postgresql&logoColor=white" /></td>
     <td>
       <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
       <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
@@ -105,27 +112,41 @@
   </tr>
 </table>
 
-<h3 style="font-family: 'JetBrains Mono', monospace; font-weight: 600;">📊 Isometric Intelligence</h3>
+<!-- Kali Stats Section -->
+<div style="background: linear-gradient(135deg, #0a0e27 0%, #1a1f3a 100%); padding: 20px; border-radius: 8px; margin: 20px 0;">
+  <p style="font-family: 'Fira Code', monospace; color: #4CAF50; font-size: 12px; margin: 0 0 10px 0;">
+    <span style="color: #4CAF50;">┌──(</span><span style="color: #367BF5;">harish</span><span style="color: #fff;">㉿</span><span style="color: #367BF5;">github</span><span style="color: #4CAF50;">)-[</span><span style="color: #fff;">~/stats</span><span style="color: #4CAF50;">]</span><br/>
+    <span style="color: #4CAF50;">└─</span><span style="color: #367BF5;">$</span> <span style="color: #fff;">cat github_analytics.log</span>
+  </p>
+  <h3 style="font-family: 'Fira Code', monospace; font-weight: 700; color: #367BF5; margin: 10px 0; font-size: 1.3em;">📊 System Analytics</h3>
+</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harishforge&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishforge&layout=compact&theme=radical&hide_border=true&hide=smali,html&bg_color=0d1117" height="150" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harishforge&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0a0e27&title_color=367BF5&text_color=fff&icon_color=4CAF50" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishforge&layout=compact&theme=tokyonight&hide_border=true&hide=smali,html&bg_color=0a0e27&title_color=367BF5&text_color=fff" height="150" alt="languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harishforge&theme=radical" alt="profile details">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harishforge&theme=tokyonight" alt="profile details">
 </div>
 
 <br/>
 
-<h3 style="font-family: 'JetBrains Mono', monospace; font-weight: 600;">🌄 Contribution 3D Terrain</h3>
+<!-- Kali Contribution Section -->
+<div style="background: linear-gradient(135deg, #0a0e27 0%, #1a1f3a 100%); padding: 20px; border-radius: 8px; margin: 20px 0;">
+  <p style="font-family: 'Fira Code', monospace; color: #4CAF50; font-size: 12px; margin: 0 0 10px 0;">
+    <span style="color: #4CAF50;">┌──(</span><span style="color: #367BF5;">harish</span><span style="color: #fff;">㉿</span><span style="color: #367BF5;">github</span><span style="color: #4CAF50;">)-[</span><span style="color: #fff;">~/activity</span><span style="color: #4CAF50;">]</span><br/>
+    <span style="color: #4CAF50;">└─</span><span style="color: #367BF5;">$</span> <span style="color: #fff;">git log --graph --all</span>
+  </p>
+  <h3 style="font-family: 'Fira Code', monospace; font-weight: 700; color: #367BF5; margin: 10px 0; font-size: 1.3em;">🌄 Contribution Graph</h3>
+</div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harishforge&bg_color=0D1117&color=ff00cc&line=ff00cc&point=FFFFFF&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harishforge&bg_color=0a0e27&color=367BF5&line=4CAF50&point=367BF5&area=true&hide_border=true" width="100%" />
 </div>
 
 <br/>
@@ -133,7 +154,17 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24&height=100&section=footer&text=>>%20explore.repositories()&fontSize=18&fontColor=000000&fontName=JetBrainsMono&fontAlign=50&desc=Building.%20Learning.%20Innovating.&descSize=12&descAlignY=70&descAlign=50)
+<!-- Kali Footer -->
+<div style="background: linear-gradient(135deg, #0a0e27 0%, #1a1f3a 100%); padding: 30px 20px; border-radius: 8px; margin: 30px 0;">
+  <p style="font-family: 'Fira Code', monospace; color: #4CAF50; font-size: 14px; margin: 0; text-align: center;">
+    <span style="color: #4CAF50;">┌──(</span><span style="color: #367BF5;">visitor</span><span style="color: #fff;">㉿</span><span style="color: #367BF5;">github</span><span style="color: #4CAF50;">)-[</span><span style="color: #fff;">~</span><span style="color: #4CAF50;">]</span><br/>
+    <span style="color: #4CAF50;">└─</span><span style="color: #367BF5;">$</span> <span style="color: #fff;">cd repositories && ls -la</span><br/><br/>
+    <span style="color: #367BF5;">[</span><span style="color: #4CAF50;"> ✓ </span><span style="color: #367BF5;">]</span> <span style="color: #fff;">Thanks for visiting! Check out my repositories</span><br/>
+    <span style="color: #666;">// Building. Learning. Innovating.</span>
+  </p>
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24&height=80&section=footer)
 
 </div>
 
