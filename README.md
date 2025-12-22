@@ -1,40 +1,34 @@
 <div align="center">
 
 <!-- Kali Linux Terminal Header -->
-<div style="background: linear-gradient(135deg, #0a0e27 0%, #1a1f3a 100%); padding: 40px 30px; border-radius: 10px; position: relative; overflow: hidden; border: 1px solid #367BF5;">
+<div style="background: linear-gradient(135deg, #0a0e27 0%, #1a1f3a 100%); padding: 50px 30px; border-radius: 12px; position: relative; overflow: hidden; border: 2px solid #367BF5; box-shadow: 0 8px 32px rgba(54, 123, 245, 0.3);">
   
 <!-- Kali Dragon Icon -->
-<img src="https://www.kali.org/images/kali-dragon-icon.svg" width="60" style="opacity: 0.08; position: absolute; top: 20px; right: 20px;" onerror="this.style.display='none'"/>
-
-<!-- Terminal Window Header Bar -->
-<div style="background: #1a1f3a; padding: 8px 15px; border-radius: 6px 6px 0 0; margin: -20px -10px 20px -10px; text-align: left; border-bottom: 1px solid #367BF5;">
-  <span style="display: inline-block; width: 12px; height: 12px; border-radius: 50%; background: #ff5f56; margin-right: 6px;"></span>
-  <span style="display: inline-block; width: 12px; height: 12px; border-radius: 50%; background: #ffbd2e; margin-right: 6px;"></span>
-  <span style="display: inline-block; width: 12px; height: 12px; border-radius: 50%; background: #27c93f; margin-right: 10px;"></span>
-  <span style="font-family: 'Fira Code', monospace; font-size: 11px; color: #888;">harish@github: ~/profile</span>
-</div>
+<img src="https://www.kali.org/images/kali-dragon-icon.svg" width="100" style="opacity: 0.06; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);" onerror="this.style.display='none'"/>
 
 <!-- Terminal Content -->
-<div style="text-align: left; max-width: 800px; margin: 0 auto; font-family: 'Fira Code', 'Courier New', monospace;">
+<div style="text-align: center; max-width: 900px; margin: 0 auto; font-family: 'Fira Code', 'Courier New', monospace; position: relative; z-index: 1;">
   
   <!-- Command Prompt -->
-  <p style="color: #4CAF50; font-size: 13px; margin: 0 0 15px 0; line-height: 1.6;">
+  <p style="color: #4CAF50; font-size: 12px; margin: 0 0 30px 0; line-height: 1.8; text-align: left; display: inline-block;">
     <span style="color: #4CAF50;">┌──(</span><span style="color: #367BF5; font-weight: 600;">harish</span><span style="color: #fff;">㉿</span><span style="color: #367BF5; font-weight: 600;">github</span><span style="color: #4CAF50;">)-[</span><span style="color: #fff;">~</span><span style="color: #4CAF50;">]</span><br/>
-    <span style="color: #4CAF50;">└─</span><span style="color: #367BF5;">$</span> <span style="color: #fff;">cat profile.txt</span>
+    <span style="color: #4CAF50;">└─</span><span style="color: #367BF5;">$</span> <span style="color: #fff;">whoami</span>
   </p>
   
-  <!-- Profile Output -->
-  <div style="background: rgba(54, 123, 245, 0.05); padding: 20px; border-left: 3px solid #367BF5; margin: 15px 0;">
-    <h1 style="font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-weight: 800; font-size: 3em; margin: 0 0 10px 0; padding: 0; letter-spacing: 0.15em; color: #367BF5; text-shadow: 0 0 20px rgba(54, 123, 245, 0.4);">
-      HARISH
-    </h1>
-    <p style="font-family: 'Fira Code', monospace; font-size: 14px; color: #4CAF50; margin: 5px 0 0 0;">
-      <span style="color: #888;">»</span> <span style="color: #fff;">Full-Stack MERN Developer</span>
+  <!-- Name - Big and Bold -->
+  <h1 style="font-family: 'JetBrains Mono', 'Fira Code', monospace; font-weight: 800; font-size: 5em; margin: 20px 0; padding: 0; letter-spacing: 0.2em; color: #367BF5; text-shadow: 0 0 30px rgba(54, 123, 245, 0.8), 0 0 60px rgba(54, 123, 245, 0.4), 0 4px 8px rgba(0, 0, 0, 0.5); line-height: 1.2;">
+    HARISH
+  </h1>
+  
+  <!-- Role with Terminal Style -->
+  <div style="background: rgba(54, 123, 245, 0.1); padding: 15px 30px; border-left: 4px solid #4CAF50; border-right: 4px solid #4CAF50; margin: 30px auto; display: inline-block; backdrop-filter: blur(10px);">
+    <p style="font-family: 'Fira Code', monospace; font-size: 16px; color: #fff; margin: 0; letter-spacing: 0.05em;">
+      <span style="color: #4CAF50; font-weight: 700;">»</span> <span style="font-weight: 600;">Full-Stack MERN Developer</span> <span style="color: #4CAF50; font-weight: 700;">«</span>
     </p>
   </div>
   
   <!-- Next Command -->
-  <p style="color: #4CAF50; font-size: 13px; margin: 20px 0 10px 0;">
+  <p style="color: #4CAF50; font-size: 12px; margin: 30px 0 0 0; text-align: left; display: inline-block;">
     <span style="color: #4CAF50;">┌──(</span><span style="color: #367BF5; font-weight: 600;">harish</span><span style="color: #fff;">㉿</span><span style="color: #367BF5; font-weight: 600;">github</span><span style="color: #4CAF50;">)-[</span><span style="color: #fff;">~</span><span style="color: #4CAF50;">]</span><br/>
     <span style="color: #4CAF50;">└─</span><span style="color: #367BF5;">$</span> <span style="color: #fff;">./status.sh</span>
   </p>
