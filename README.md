@@ -1,63 +1,96 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Harish%20G&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Engineer%20%7C%20Open%20Source%20Enthusiast&descAlignY=52&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=300&section=header&text=Harish%20G&fontSize=90&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Architect%20&descAlignY=55&descSize=25)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=I+craft+digital+experiences;that+scale+to+millions+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://harishforge.github.io/devportfolio/)
-[![Resume](https://img.shields.io/badge/Resume-000?style=for-the-badge&logo=readdotcv&logoColor=white)](https://hacknical.com/harishforge/resume?locale=en)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/harish-g)
-[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:your-email@example.com)
-
-</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=A68CFF&center=true&vCenter=true&width=600&lines=Architecting+the+Next+Gen+Web;Crafting+Pixel+Perfect+UI;Building+Scalable+Systems" alt="Typing SVG" /></a>
 
 <br/>
 
-## 🛠️ Tech Arsenal
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🚀 Profile</h3>
+      <p>
+        I'm a <b>Full Stack Engineer</b> passionate about building software that shapes the future. <br/>
+        specializing in <b>Systems Architecture</b>, <b>AI Integration</b>, and <b>Performance Optimization</b>.
+      </p>
+      <br/>
+      <a href="https://linkedin.com/in/harish-g">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+      <a href="https://harishforge.github.io/devportfolio/">
+        <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=react&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h3>⚡ Reach Out</h3>
+      <p>Open for collaborations and interesting conversations.</p>
+      <br/>
+      <a href="mailto:your-email@example.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+      <a href="https://hacknical.com/harishforge/resume?locale=en">
+        <img src="https://img.shields.io/badge/Resume-1a1a2e?style=for-the-badge&logo=readme&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
+<h3>🛠️ The Arsenal</h3>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="120"><b>Core</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=js,ts,python,rust&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite,threejs&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,nestjs,django&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>Base</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres,mongo,redis,docker,aws,kubernetes,git&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>Design</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=figma,ae,ps&theme=dark" />
+    </td>
+  </tr>
+</table>
 
-</div>
+<h3>📊 System Telemetry</h3>
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=harishforge&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=harishforge&theme=midnight-purple&hide_border=true" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=harishforge&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=harishforge&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
-
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harishforge&bg_color=1a1b27&color=7938fa&line=7938fa&point=FFFFFF&area=true&hide_border=true" width="100%" />
 
 <br/>
 
-<div align="center">
-
-<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=harishforge&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
-
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
+<h3>🐍 Contribution Stream</h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harishforge/harishforge/output/github-snake-dark.svg" />
@@ -65,20 +98,12 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/harishforge/harishforge/output/github-snake.svg" width="100%" />
 </picture>
 
-</div>
-
-<br/>
-
-## ⏱️ Weekly Development
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 <br/>
 
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=100&section=footer&text=Innovate.%20Build.%20Scale.&fontSize=20&fontColor=ffffff)
 
 </div>
 
