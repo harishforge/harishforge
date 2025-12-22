@@ -15,29 +15,8 @@
     <span style="color: #4CAF50;">└─</span><span style="color: #367BF5;">$</span> <span style="color: #fff;">whoami</span>
   </p>
   
-  <!-- Name - Custom SVG with Distinctive Font -->
-  <svg width="600" height="120" xmlns="http://www.w3.org/2000/svg" style="margin: 20px 0;">
-    <defs>
-      <filter id="glow">
-        <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
-        <feMerge>
-          <feMergeNode in="coloredBlur"/>
-          <feMergeNode in="SourceGraphic"/>
-        </feMerge>
-      </filter>
-      <style>
-        @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@900&amp;display=swap');
-        .name-text { 
-          font-family: 'Orbitron', 'Rajdhani', 'Audiowide', sans-serif; 
-          font-weight: 900; 
-          font-size: 80px; 
-          fill: #367BF5;
-          letter-spacing: 15px;
-        }
-      </style>
-    </defs>
-    <text x="50%" y="70%" text-anchor="middle" class="name-text" filter="url(#glow)">HARISH</text>
-  </svg>
+  <!-- Name - Large Image with Custom Font -->
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=80&pause=1000000&color=367BF5&center=true&vCenter=true&width=600&height=120&lines=HARISH" alt="HARISH" style="margin: 20px 0;" />
   
   <!-- Role with Terminal Style -->
   <div style="background: rgba(54, 123, 245, 0.1); padding: 15px 30px; border-left: 4px solid #4CAF50; border-right: 4px solid #4CAF50; margin: 30px auto; display: inline-block; backdrop-filter: blur(10px);">
