@@ -1,8 +1,8 @@
 <div align="center">
 
 <!-- Minimal Header -->
-<h1 style="font-family: 'JetBrains Mono', monospace; font-weight: 700; font-size: 3.5em; margin: 0; padding: 0; letter-spacing: -2px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-  Harish G
+<h1 style="font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-weight: 800; font-size: 4em; margin: 0; padding: 0; letter-spacing: 0.05em; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
+  HARISH
 </h1>
 
 <p style="font-family: 'JetBrains Mono', monospace; font-size: 0.9em; color: #666; margin-top: 8px; letter-spacing: 1px;">
