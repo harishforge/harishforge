@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,23&height=200&section=header&text=Harish%20&fontSize=80&fontColor=ffffff&fontAlignY=40&animation=fadeIn&fontAlign=50&stroke=ffffff&strokeWidth=0)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,23&height=200&section=header&text=Harish%20G&fontSize=60&fontColor=ffffff&fontAlignY=40&animation=fadeIn&fontAlign=50&stroke=ffffff&strokeWidth=0&fontName=JetBrainsMono)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=550&lines=Full-Stack+MERN+Developer;Building+Production-Ready+Apps;Passionate+Problem+Solver" alt="Typing SVG" /></a>
 
@@ -15,7 +15,7 @@
         From blogging platforms to inventory systems, I build solutions that matter.
       </p>
       <br/>
-      <a href="https://linkedin.com/in/harish-g">
+      <a href="https://linkedin.com/in/itsharishg">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>
       <a href="https://harishforge.github.io/devportfolio/">
