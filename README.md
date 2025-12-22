@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,23&height=280&section=header&text=Harish%20G&fontSize=80&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Architecting%20the%20Digital%20Future&descAlignY=55&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,23&height=200&section=header&text=Harish%20G&fontSize=80&fontColor=ffffff&fontAlignY=40&animation=fadeIn)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=550&lines=Full+Stack+Systems+Architect;Open+Source+Contributor;Performance+Optimization+Expert" alt="Typing SVG" /></a>
 
@@ -111,7 +111,7 @@
 
 <br/>
 
-<h3>� Contribution 3D Terrain</h3>
+<h3>🌄 Contribution 3D Terrain</h3>
 
 <br/>
 
@@ -124,7 +124,7 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,23&height=120&section=footer&text=Engineered%20for%20Excellence&fontSize=24&fontColor=ffffff)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,23&height=120&section=footer&text=Check%20Out%20My%20Repositories&fontSize=24&fontColor=ffffff)
 
 </div>
 
