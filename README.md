@@ -4,11 +4,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=550&lines=Full+Stack+Systems+Architect;Open+Source+Contributor;Performance+Optimization+Expert" alt="Typing SVG" /></a>
 
-<br/>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harishforge&theme=radical&no-bg=true" alt="trophy" /></a>
-
-<br/>
 
 <table>
   <tr>
