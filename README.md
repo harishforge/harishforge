@@ -1,18 +1,18 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,23&height=200&section=header&text=Harish%20G&fontSize=80&fontColor=ffffff&fontAlignY=40&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,23&height=200&section=header&text=Harish%20&fontSize=80&fontColor=ffffff&fontAlignY=40&animation=fadeIn&fontAlign=50&stroke=ffffff&strokeWidth=0)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=550&lines=Full+Stack+Systems+Architect;Open+Source+Contributor;Performance+Optimization+Expert" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=550&lines=Full-Stack+MERN+Developer;Building+Production-Ready+Apps;Passionate+Problem+Solver" alt="Typing SVG" /></a>
 
 
 
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>🧠 About Me</h3>
-      <p>
-        I am a <b>Visionary Engineer</b> building high-performance systems. <br/>
-        My code powers scalable applications used by thousands.
+      <h3 style="font-family: 'JetBrains Mono', monospace; font-weight: 600;">🧠 About Me</h3>
+      <p style="font-family: 'JetBrains Mono', monospace; font-weight: 600;">
+        I'm a <b>Full-Stack MERN Developer</b> crafting scalable web applications. <br/>
+        From blogging platforms to inventory systems, I build solutions that matter.
       </p>
       <br/>
       <a href="https://linkedin.com/in/harish-g">
@@ -23,8 +23,8 @@
       </a>
     </td>
     <td align="center" width="50%">
-      <h3>📫 Connect</h3>
-      <p>Let's build something incredible together.</p>
+      <h3 style="font-family: 'JetBrains Mono', monospace; font-weight: 600;">📫 Connect</h3>
+      <p style="font-family: 'JetBrains Mono', monospace; font-weight: 600;">Let's build something incredible together.</p>
       <br/>
       <a href="mailto:your-email@example.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -36,7 +36,7 @@
   </tr>
 </table>
 
-<h3>⚡ Technical Command Center</h3>
+<h3 style="font-family: 'JetBrains Mono', monospace; font-weight: 600;">⚡ Technical Command Center</h3>
 
 <table>
   <tr>
@@ -96,7 +96,7 @@
   </tr>
 </table>
 
-<h3>📊 Isometric Intelligence</h3>
+<h3 style="font-family: 'JetBrains Mono', monospace; font-weight: 600;">📊 Isometric Intelligence</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harishforge&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" height="150" alt="stats" />
@@ -111,7 +111,7 @@
 
 <br/>
 
-<h3>🌄 Contribution 3D Terrain</h3>
+<h3 style="font-family: 'JetBrains Mono', monospace; font-weight: 600;">🌄 Contribution 3D Terrain</h3>
 
 <br/>
 
