@@ -38,7 +38,7 @@
 <!-- Kali-Style Social Badges -->
 <p style="margin-top: 25px;">
   <a href="https://linkedin.com/in/itsharishg"><img src="https://img.shields.io/badge/┌─[LinkedIn]-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://harishforge.github.io/devportfolio/"><img src="https://img.shields.io/badge/├─[Portfolio]-367BF5?style=for-the-badge&logo=react&logoColor=white" /></a>
+  <a href="https://itsharishg.me"><img src="https://img.shields.io/badge/├─[Portfolio]-367BF5?style=for-the-badge&logo=react&logoColor=white" /></a>
   <a href="mailto:harishforge@gmail.com"><img src="https://img.shields.io/badge/├─[Email]-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://hacknical.com/harishforge/resume?locale=en"><img src="https://img.shields.io/badge/└─[Resume]-4CAF50?style=for-the-badge&logo=readme&logoColor=white" /></a>
 </p>
